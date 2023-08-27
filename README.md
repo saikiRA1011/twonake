@@ -8,5 +8,7 @@
 
 ランキング機能を搭載しており、4位までのスコアを確認することができます。
 
+![サムネイル](https://github.com/saikiRA1011/twonake/blob/master/twonake/App/image/thumbnail.png)
+
 ## ライセンス
 このソフトウェアはOpenSiv3Dによって作成されています。
