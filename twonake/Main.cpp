@@ -89,6 +89,7 @@ public:
 		}
 	}
 
+	// ヘルプ画面キャプチャ用。処理が重たいのでリリース時には使わない。
 	void drawHelp() const
 	{
 		Graphics2D::SetSDFParameters(helpFont.pixelRange(), 0.0);
